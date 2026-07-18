@@ -1,3 +1,4 @@
 # apnacollage.demo
-This is my first Git Repository
+<strong>This is my first Git Repository</strong>
+<br>
 Author - Mayank
